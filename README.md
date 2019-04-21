@@ -1,2 +1,2 @@
 # Jenkin Configuration Project
-## A demo project of complete setup of Jenkins
+## A demo project related to complete setup of Jenkins
