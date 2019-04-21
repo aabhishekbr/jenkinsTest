@@ -1,2 +1,2 @@
-# jenkinsTest
-a demo project to check working of jenkins
+# Jenkin Configuration Project
+## A demo project of complete setup of Jenkins
